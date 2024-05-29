@@ -118,6 +118,7 @@ void printGrayCode(int n) {
 }
 */
 
+
 int32_t main() {
     int n;
     cin >> n;
